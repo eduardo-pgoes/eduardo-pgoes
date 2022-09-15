@@ -5,4 +5,4 @@
 - 🐍 Tenho uma paixão por Python por ter sido a tecnologia que me introduziu à computação; pretendo desenvolver sideprojects neste perfil :) 
 
 ### Conecte comigo!
-[Linkedin](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/eduardopgoes/)
+[![Linkedin](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/eduardopgoes/)](https://www.linkedin.com/in/eduardopgoes)
