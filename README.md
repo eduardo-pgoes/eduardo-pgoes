@@ -1,7 +1,7 @@
 <h1 class="center"> Hello! I'm Eduardo :) </h1> 
 
 - 📚 4th semester CS student @ UNIFESP
-- 💻 Software Developer @ VizworX
+- 💻 Software Developer @ onCar
 - 🌱 Working on improving my TypeScript, AWS, React.js & Next.js skills.
 
 ### Socials
